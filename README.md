@@ -6,6 +6,10 @@ EDA: https://colab.research.google.com/drive/1dt3nvtQzf4Uuiac61Jk2sVkTwPzcBnG3?u
 
 Были обучены следующие модели:
 
+https://colab.research.google.com/drive/1dt3nvtQzf4Uuiac61Jk2sVkTwPzcBnG3?usp=sharing
+
+https://colab.research.google.com/drive/1usqDBF2vN_M9iHAPpzrvT-VxOAL1PtxZ?usp=sharing
+
 RidgeCV:
 MSE train: 4.239941085227615e-06
 MSE train: 1.0248983184078621e-05
